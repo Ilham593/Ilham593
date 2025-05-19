@@ -21,7 +21,7 @@
 
 #### My Github Stats
 
-[![ilham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ilham593&show_icons=true&theme=gruvbox))](https://github.com/anuraghazra/github-readme-stats)
+[![ilham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ilham593&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ilham593/Ilham593/output/pacman-contribution-graph-dark.svg">
